@@ -24,7 +24,6 @@ Hi, I'm **Birashalynee Suthahar**, a passionate Software Developer and Data Scie
   - 🌐 HTML
   - 🎨 CSS
   - ⚡ JavaScript
-  - 🗄️ MySQL
   - 🔶 C
   - 🔷 C++
   - 🔥 Flask
